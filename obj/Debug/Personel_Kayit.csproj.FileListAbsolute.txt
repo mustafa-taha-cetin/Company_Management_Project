@@ -1,0 +1,13 @@
+C:\Users\USER01\Desktop\C#\Personel_Kayit\Personel_Kayit\bin\Debug\Personel_Kayit.exe.config
+C:\Users\USER01\Desktop\C#\Personel_Kayit\Personel_Kayit\bin\Debug\Personel_Kayit.exe
+C:\Users\USER01\Desktop\C#\Personel_Kayit\Personel_Kayit\bin\Debug\Personel_Kayit.pdb
+C:\Users\USER01\Desktop\C#\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.csproj.AssemblyReference.cache
+C:\Users\USER01\Desktop\C#\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.Form1.resources
+C:\Users\USER01\Desktop\C#\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.Properties.Resources.resources
+C:\Users\USER01\Desktop\C#\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.csproj.GenerateResource.cache
+C:\Users\USER01\Desktop\C#\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.csproj.CoreCompileInputs.cache
+C:\Users\USER01\Desktop\C#\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.exe
+C:\Users\USER01\Desktop\C#\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.pdb
+C:\Users\USER01\Desktop\C#\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.FrmIstatistik2.resources
+C:\Users\USER01\Desktop\C#\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.FrmGrafik.resources
+C:\Users\USER01\Desktop\C#\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.FrmGiris.resources
